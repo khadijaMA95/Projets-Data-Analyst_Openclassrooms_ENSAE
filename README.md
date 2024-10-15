@@ -20,9 +20,11 @@ De plus, vous aidez votre collègue du pôle Marketing à analyser les données 
 Excel, PowerPoint
 
 ## Projet 2 : Créez et utilisez une base de données immobilière avec SQL
+![projet 2](https://github.com/user-attachments/assets/734ec1d1-18cb-436f-8cab-ac726f537238)
 
 ### Contexte :
-Dans ce projet, en tant que Data Analyst chez Laplace Immo, vous êtes chargé d'aider à la mise en place du projet stratégique interne appelé "DATAImmo". Ce projet vise à créer un modèle pour mieux prédire les prix de vente des biens immobiliers à partir de données provenant de diverses sources, telles que les transactions foncières et les données démographiques de l'INSEE. Vous êtes responsable de modifier la base de données, de créer un dictionnaire des données et de concevoir un schéma relationnel normalisé pour faciliter l'analyse des données et l'accompagnement des agences régionales dans leurs décisions.
+Dans ce projet, en tant que Data Analyst chez Laplace Immo, vous êtes chargé d'aider à la mise en place du projet stratégique interne appelé "DATAImmo". Ce projet vise à créer un modèle pour mieux prédire les prix de vente des biens immobiliers à partir de données provenant de diverses sources, telles que les transactions foncières et les données démographiques de l'INSEE. Vous êtes responsable de modifier la base de données, de créer un dictionnaire des données et de concevoir un schéma relationnel normalisé pour faciliter l'analyse des données et l'accompagnement des agences régionales dans leurs décisions. ![Capture d’écran 2024-10-15 154146](https://github.com/user-attachments/assets/14d5c4bf-6526-4eb3-b097-ac9692b4c15a)
+                            
 ### compétences acquises : 
 :black_medium_small_square:	 Générer des graphiques adaptés aux types de données
 
@@ -42,7 +44,8 @@ mySQL, postgreSQL
 ![Projet 3](https://github.com/user-attachments/assets/33c2d84a-fbce-4fc8-b7f0-0043042900ce)
 
 ### Contexte :
-Dans ce projet, vous avez récemment rejoint l'équipe de recherche de la FAO (Food and Agriculture Organization of the United Nations) en tant que Data Analyst.  L'un des organes qui compose l'ONU et dont l'objectif est d' « aider à construire un monde libéré de la faim ». Votre équipe est chargée de réaliser une étude de grande ampleur sur le thème de la sous-nutrition dans le monde. Le problème de la faim est complexe et peut avoir de multiples causes, différentes selon les pays. L’étape préliminaire de cette étude sera donc d’établir un “état de l’art” des recherches déjà publiées, mais également de mener une étude statistique destinée à orienter les recherches vers des pays particuliers, et de mettre en lumière différentes causes de la faim.
+Dans ce projet, vous avez récemment rejoint l'équipe de recherche de la FAO (Food and Agriculture Organization of the United Nations) en tant que Data Analyst.  L'un des organes qui compose l'ONU et dont l'objectif est d' « aider à construire un monde libéré de la faim ». Votre équipe est chargée de réaliser une étude de grande ampleur sur le thème de la sous-nutrition dans le monde. Le problème de la faim est complexe et peut avoir de multiples causes, différentes selon les pays. L’étape préliminaire de cette étude sera donc d’établir un “état de l’art” des recherches déjà publiées, mais également de mener une étude statistique destinée à orienter les recherches vers des pays particuliers, et de mettre en lumière différentes causes de la faim.![Capture d’écran 2024-10-15 154112](https://github.com/user-attachments/assets/330596b6-cc00-48af-830e-635273b080e3)
+
 À votre arrivée, Marc, le responsable de l'équipe, vous a fourni des documents essentiels, dont une ébauche de présentation, un jeu de données, un lexique, ainsi qu'un notebook contenant les étapes préliminaires d'analyse préparées par Julien, l'ancien Data Analyst.
 Votre rôle est d'approfondir et d'analyser ces données en utilisant des outils comme Python ou R, avec la possibilité d'ajouter des analyses complémentaires pertinentes. Vous devez également utiliser ces ressources pour produire une présentation concise sur l'état actuel de l'alimentation mondial.
 ### compétences acquises : 
