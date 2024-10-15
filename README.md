@@ -43,7 +43,7 @@ mySQL, postgreSQL
 ## Projet 3 : Réalisez une étude de santé publique avec R ou Python
 ![Projet 3](https://github.com/user-attachments/assets/33c2d84a-fbce-4fc8-b7f0-0043042900ce)
 
-### Contexte :![Capture d’écran 2024-10-15 154112](https://github.com/user-attachments/assets/ce8e7cd9-a599-4043-99ed-9f2093386cbc)
+### Contexte :
 
 Dans ce projet, vous avez récemment rejoint l'équipe de recherche de la FAO (Food and Agriculture Organization of the United Nations) en tant que Data Analyst.  L'un des organes qui compose l'ONU et dont l'objectif est d' « aider à construire un monde libéré de la faim ». Votre équipe est chargée de réaliser une étude de grande ampleur sur le thème de la sous-nutrition dans le monde. Le problème de la faim est complexe et peut avoir de multiples causes, différentes selon les pays. L’étape préliminaire de cette étude sera donc d’établir un “état de l’art” des recherches déjà publiées, mais également de mener une étude statistique destinée à orienter les recherches vers des pays particuliers, et de mettre en lumière différentes causes de la faim.
 À votre arrivée, Marc, le responsable de l'équipe, vous a fourni des documents essentiels, dont une ébauche de présentation, un jeu de données, un lexique, ainsi qu'un notebook contenant les étapes préliminaires d'analyse préparées par Julien, l'ancien Data Analyst.
@@ -57,3 +57,16 @@ Votre rôle est d'approfondir et d'analyser ces données en utilisant des outils
 :black_medium_small_square:  Rédiger et présenter une méthodologie d'exploration et d'analyse des données
 ## Outils utilisés : 
 Algèbre relationnelle / Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
+
+## Projet 4 : Optimisez la gestion des données d'une boutique avec R ou Python
+                         ![Capture d’écran 2024-10-15 154847](https://github.com/user-attachments/assets/074aab66-4f07-43ab-9ecb-9f31c343a809)
+
+### Contexte :
+
+Dans ce projet, vous commencez en tant que Data Analyst chez BottleNeck, un marchand de vin prestigieux. Votre manager, vous demande de rapprocher deux bases de données provenant d'un ERP et de la plateforme de vente en ligne de l'entreprise. L'objectif est de calculer le chiffre d'affaires par produit en ligne et de vérifier la cohérence des prix, en identifiant d'éventuelles anomalies. Vous devez également présenter vos résultats lors d'une réunion COPIL, sous forme de présentation ou de notebook. Laurent met à votre disposition deux exports de données ainsi qu'un tableau de liaison entre les deux systèmes pour faciliter votre travail.
+### compétences acquises : 
+:black_medium_small_square:	 Réaliser une analyse univariée pour interpréter des données
+:black_medium_small_square:  Classifier différents types de données 
+:black_medium_small_square:  Gérer les erreurs et les incohérences présentes sur des données stockées : nettoyer,détecter les outilers, rapprocher les données via des jointures...
+## Outils utilisés : 
+Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
