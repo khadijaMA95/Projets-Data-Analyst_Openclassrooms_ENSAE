@@ -59,7 +59,7 @@ Votre rôle est d'approfondir et d'analyser ces données en utilisant des outils
 Algèbre relationnelle / Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
 
 ## Projet 4 : Optimisez la gestion des données d'une boutique avec R ou Python
-                         ![Capture d’écran 2024-10-15 154847](https://github.com/user-attachments/assets/eaf45be4-aff6-42de-bb30-cec2cb5231cf)
+![Capture d’écran 2024-10-15 154847](https://github.com/user-attachments/assets/6bcc88fb-b91f-4332-985a-c3ede18aa02c)
 
 ### Contexte :
 
