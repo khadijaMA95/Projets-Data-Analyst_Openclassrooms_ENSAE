@@ -41,7 +41,7 @@ Dans ce projet, en tant que Data Analyst chez Laplace Immo, vous êtes chargé d
 mySQL, postgreSQL
 
 ## Projet 3 : Réalisez une étude de santé publique avec R ou Python
-![Projet 3](https://github.com/user-attachments/assets/33c2d84a-fbce-4fc8-b7f0-0043042900ce)
+![Projet 3](https://github.com/user-attachments/assets/2468b4b1-0441-40ac-beef-05b8a392938e)
 
 ### Contexte :
 
@@ -59,7 +59,7 @@ Votre rôle est d'approfondir et d'analyser ces données en utilisant des outils
 Algèbre relationnelle / Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
 
 ## Projet 4 : Optimisez la gestion des données d'une boutique avec R ou Python
-                         ![Capture d’écran 2024-10-15 154847](https://github.com/user-attachments/assets/074aab66-4f07-43ab-9ecb-9f31c343a809)
+                         ![Capture d’écran 2024-10-15 154847](https://github.com/user-attachments/assets/eaf45be4-aff6-42de-bb30-cec2cb5231cf)
 
 ### Contexte :
 
