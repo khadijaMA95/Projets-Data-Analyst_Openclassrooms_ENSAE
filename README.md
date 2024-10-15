@@ -45,8 +45,9 @@ Dans ce projet, vous avez récemment rejoint l'équipe de recherche de la FAO (F
 À votre arrivée, Marc, le responsable de l'équipe, vous a fourni des documents essentiels, dont une ébauche de présentation, un jeu de données, un lexique, ainsi qu'un notebook contenant les étapes préliminaires d'analyse préparées par Julien, l'ancien Data Analyst.
 Votre rôle est d'approfondir et d'analyser ces données en utilisant des outils comme Python ou R, avec la possibilité d'ajouter des analyses complémentaires pertinentes. Vous devez également utiliser ces ressources pour produire une présentation concise sur l'état actuel de l'alimentation mondial.
 <p align="center">
-![Capture d’écran 2024-10-15 152845](https://github.com/user-attachments/assets/d65b36da-e914-4e1d-8be6-c83348a0ed40)
-</p>
+  ![Capture d’écran 2024-10-15 152845](https://github.com/user-attachments/assets/410aff13-f10b-457c-a40e-02e8f5433dbe)
+
+  </p>
 
 ### compétences acquises : 
 :black_medium_small_square:	 Manipuler des DataFrames
