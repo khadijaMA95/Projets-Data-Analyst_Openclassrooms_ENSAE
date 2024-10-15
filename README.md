@@ -25,10 +25,15 @@ Excel, PowerPoint
 Dans ce projet, en tant que Data Analyst chez Laplace Immo, vous êtes chargé d'aider à la mise en place du projet stratégique interne appelé "DATAImmo". Ce projet vise à créer un modèle pour mieux prédire les prix de vente des biens immobiliers à partir de données provenant de diverses sources, telles que les transactions foncières et les données démographiques de l'INSEE. Vous êtes responsable de modifier la base de données, de créer un dictionnaire des données et de concevoir un schéma relationnel normalisé pour faciliter l'analyse des données et l'accompagnement des agences régionales dans leurs décisions.
 ### compétences acquises : 
 :black_medium_small_square:	 Générer des graphiques adaptés aux types de données
+
 :black_medium_small_square:  Charger des données dans une base de données
+
 :black_medium_small_square:  Créer des tables dans une base de données
+
 :black_medium_small_square:  Créer le schéma d'une base de données
+
 :black_medium_small_square:  Effectuer des requêtes SQL pour répondre à une problématique métier
+
 :black_medium_small_square:  Mettre à jour un catalogue de données
 ## Outils utilisés : 
 mySQL, postgreSQL
@@ -41,7 +46,9 @@ Dans ce projet, vous avez récemment rejoint l'équipe de recherche de la FAO (F
 Votre rôle est d'approfondir et d'analyser ces données en utilisant des outils comme Python ou R, avec la possibilité d'ajouter des analyses complémentaires pertinentes. Vous devez également utiliser ces ressources pour produire une présentation concise sur l'état actuel de l'alimentation mondial.
 ### compétences acquises : 
 :black_medium_small_square:	 Manipuler des DataFrames
+
 :black_medium_small_square:  Utiliser des librairies spécialisées pour les traitements data (Librairie Pandas, Numpy, Scipy et sklearn...)
+
 :black_medium_small_square:  Rédiger et présenter une méthodologie d'exploration et d'analyse des données
 ## Outils utilisés : 
 Algèbre relationnelle / Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
