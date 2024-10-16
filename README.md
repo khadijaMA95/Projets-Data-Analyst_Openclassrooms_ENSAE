@@ -47,4 +47,5 @@ Manipulation de DataFrame, préparation de données, analyse exploratoire, analy
 Conception et création de tables, requêtes SQL.
 
 # 🔧 Outils utilisés
+![1729116873134](https://github.com/user-attachments/assets/eaab994a-8563-4321-8028-0a73850a8f59)
 
