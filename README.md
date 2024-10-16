@@ -155,3 +155,48 @@ Ce projet permettra de mieux cibler les efforts de l'ONG en fonction du pays qui
 
 ## Outils utilisés : 
 Power Bi, Power Query
+
+## Projet 8 : Produisez une étude de marché avec R ou Python
+
+### Contexte :
+Dans le cadre de votre mission en tant que Data Analyst chez La Poule qui Chante, une entreprise d’agroalimentaire, vous êtes chargé d’analyser les marchés internationaux potentiels pour l’exportation de leurs produits, notamment leurs poulets. Votre tâche principale consiste à réaliser une analyse de clustering des pays à partir des données fournies par la FAO. L'objectif est de repérer des groupements de pays potentiels où l'entreprise pourrait se développer. Pour cela, vous utiliserez deux méthodes de classification :
+:black_small_square: Classification Ascendante Hiérarchique (CAH)
+
+:black_small_square: K-means
+
+Votre analyse aidera La Poule qui Chante à orienter ses efforts de développement international de manière stratégique, en fonction des regroupements de pays identifiés par les algorithmes de clustering.
+![Capture d’écran 2024-10-16 223840](https://github.com/user-attachments/assets/16e56b77-29e1-4ae1-b674-339e5decec89)
+
+
+### compétences acquises :
+
+:black_medium_small_square:  nettoyer et fusionner les données ( valeurs manquantes, outliers, doublons...)
+
+:black_medium_small_square:  Explorer des données pour synthétiser des variables
+
+:black_medium_small_square:  Effectuer un clustering : Clustering hiérarchique et K-Means
+
+:black_medium_small_square:  Réduire  les dimensions des données :  l'analyse des compsantes principales (ACP)
+## Outils utilisés : 
+Language Python / Librairie Pandas, Numpy, Scipy, Sklearn, Seaborn, Matplotlib...
+
+## Projet 9 : Détectez des faux billets avec R ou Python
+
+### Contexte :
+En tant que Data Analyst pour l’ONCFM, votre mission consiste à développer un modèle capable de distinguer automatiquement les vrais des faux billets en euros en se basant sur leurs dimensions et caractéristiques. Pour ce faire la consigne est d'explorer différentes approches de modélisation (régression logistique, k-means..) pour déterminer le meilleur algorithme de classification des vrais et faux billets.
+Présenter les résultats finaux et le modèle retenu, en détaillant les différentes pistes explorées et les traitements effectués.
+
+![Capture d’écran 2024-10-16 225440](https://github.com/user-attachments/assets/9942a71b-e13f-4b48-8c15-269faf6cf427)
+
+### compétences acquises :
+
+:black_medium_small_square:  Opérer des classifications automatiques pour partitionner les données
+
+:black_medium_small_square: Réaliser une analyse prédictive
+
+:black_medium_small_square: Réaliser une régression linéaire
+
+:black_medium_small_square: Réaliser une régression logistique
+## Outils utilisés : 
+Language Python / Librairie Pandas, Numpy, Scipy, Sklearn, Seaborn, Matplotlib...
+
