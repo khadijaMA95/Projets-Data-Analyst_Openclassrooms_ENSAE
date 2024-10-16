@@ -182,6 +182,7 @@ Votre analyse aidera La Poule qui Chante à orienter ses efforts de développeme
 Language Python / Librairie Pandas, Numpy, Scipy, Sklearn, Seaborn, Matplotlib...
 
 ## Projet 9 : Détectez des faux billets avec R ou Python
+![Capture d’écran 2024-10-16 230514](https://github.com/user-attachments/assets/354dd1f9-3163-48b5-91e9-6c8a7ad3e138)
 
 ### Contexte :
 En tant que Data Analyst pour l’ONCFM, votre mission consiste à développer un modèle capable de distinguer automatiquement les vrais des faux billets en euros en se basant sur leurs dimensions et caractéristiques. Pour ce faire la consigne est d'explorer différentes approches de modélisation (régression logistique, k-means..) pour déterminer le meilleur algorithme de classification des vrais et faux billets.
