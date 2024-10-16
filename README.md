@@ -1,4 +1,4 @@
-# Projets_Data-Analyst_Openclassrooms_ENSAE
+# Projets formation Data-Analyst Openclassrooms_ENSAE
 Bonjour :wave:	
 
 Ce Portfolio contient les  projets que j'ai réalisé dans le cadre de ma formation Data Analyst avec Openclassrooms-ENSAE,la formation porte sur la réalisation de 9 projets différents. Vous trouverez ci-dessous l'intitulé des différents projets et les compétences acquises pour chacun d'eux.
