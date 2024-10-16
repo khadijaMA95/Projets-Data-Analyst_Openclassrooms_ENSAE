@@ -57,6 +57,8 @@ Votre rôle est d'approfondir et d'analyser ces données en utilisant des outils
 ### compétences acquises : 
 :black_medium_small_square:	 Manipuler des DataFrames
 
+:black_medium_small_square:  Analyser et nettoyer les données ( valeurs manquantes, valeurs aberrantes, doublons...)
+
 :black_medium_small_square:  Utiliser des librairies spécialisées pour les traitements data (Librairie Pandas, Numpy, Scipy et sklearn...)
 
 :black_medium_small_square:  Rédiger et présenter une méthodologie d'exploration et d'analyse des données
@@ -73,8 +75,51 @@ Dans ce projet, vous commencez en tant que Data Analyst chez BottleNeck, un marc
 
                  
 ### compétences acquises : 
+:black_medium_small_square:  Analyser et nettoyer les données ( valeurs manquantes, valeurs aberrantes, doublons...)
+
 :black_medium_small_square:	 Réaliser une analyse univariée pour interpréter des données
+
 :black_medium_small_square:  Classifier différents types de données 
+
 :black_medium_small_square:  Gérer les erreurs et les incohérences présentes sur des données stockées : nettoyer,détecter les outilers, rapprocher les données via des jointures...
 ## Outils utilisés : 
 Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
+
+## Projet 5 : Analysez les ventes d'une librairie avec R ou Python
+![Capture d’écran 2024-10-16 160338](https://github.com/user-attachments/assets/1e9c20d1-ed57-468b-b487-2adac0c74e88)
+
+### Contexte :
+Dans ce projet, Lapage, une ancienne librairie physique, a récemment lancé son site de vente en ligne après avoir rencontré un fort engouement de la part de ses clients. Vous avez été recruté en tant que Data Analyst pour analyser l'activité de la librairie en ligne. L'équipe marketing a des attentes spécifiques : analyser les indicateurs de vente pour évaluer les performances commerciales et réaliser une analyse détaillée du comportement des clients en ligne. Les bases de données nécessaires ( clients, produits, transactions...) sont déjà mises à votre disposition pour démarrer la mission.
+![Capture d’écran 2024-10-16 160432](https://github.com/user-attachments/assets/cc80a997-352a-4a6f-95e5-fa1e77007c2a)
+
+                            
+### compétences acquises :
+:black_medium_small_square:  Analyser et nettoyer les données ( valeurs manquantes, valeurs aberrantes, doublons...)
+
+:black_medium_small_square:	 Réaliser un test statistique : test de normalité, test chi2, test de Spearman, ANOVA...
+
+:black_medium_small_square:  Réaliser une analyse bivariée pour interpréter des données : analyse des KPI, segmentation des produits,  segmentation des clients, analyse de la saisonnalité...
+
+:black_medium_small_square:  Analyser des séries temporelles :   la série temporelle de l’évolution du chiffre d’affaires,  réaliser une décomposition en moyenne mobile...
+## Outils utilisés : 
+Language Python / Librairie Pandas, Numpy, Scipy, Sklearn, Seaborn, Matplotlib...
+
+## Projet 6 : Analysez les ventes d'une librairie avec R ou Python
+![Capture d’écran 2024-10-16 160338](https://github.com/user-attachments/assets/1e9c20d1-ed57-468b-b487-2adac0c74e88)
+
+### Contexte :
+Dans ce projet, Lapage, une ancienne librairie physique, a récemment lancé son site de vente en ligne après avoir rencontré un fort engouement de la part de ses clients. Vous avez été recruté en tant que Data Analyst pour analyser l'activité de la librairie en ligne. L'équipe marketing a des attentes spécifiques : analyser les indicateurs de vente pour évaluer les performances commerciales et réaliser une analyse détaillée du comportement des clients en ligne. Les bases de données nécessaires ( clients, produits, transactions...) sont déjà mises à votre disposition pour démarrer la mission.
+![Capture d’écran 2024-10-16 160432](https://github.com/user-attachments/assets/cc80a997-352a-4a6f-95e5-fa1e77007c2a)
+
+                            
+### compétences acquises :
+:black_medium_small_square:  Analyser et nettoyer les données ( valeurs manquantes, valeurs aberrantes, doublons...)
+
+:black_medium_small_square:	 Réaliser un test statistique : test de normalité, test chi2, test de Spearman, ANOVA...
+
+:black_medium_small_square:  Réaliser une analyse bivariée pour interpréter des données : analyse des KPI, segmentation des produits,  segmentation des clients, analyse de la saisonnalité...
+
+:black_medium_small_square:  Analyser des séries temporelles :   la série temporelle de l’évolution du chiffre d’affaires,  réaliser une décomposition en moyenne mobile...
+## Outils utilisés : 
+Language Python / Librairie Pandas, Numpy, Scipy, Sklearn, Seaborn, Matplotlib...
+
