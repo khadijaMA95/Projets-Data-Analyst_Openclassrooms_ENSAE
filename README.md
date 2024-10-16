@@ -117,13 +117,13 @@ Dans ce projet, Lapage, une ancienne librairie physique, a récemment lancé son
                             
 ### compétences acquises :
 
-:black_medium_small_square Collecter des données en respectant le RGPD
+:black_medium_small_square: Collecter des données en respectant le RGPD
 
-:black_medium_small_square  Analyser et nettoyer les données sur Knime ( valeurs manquantes, valeurs aberrantes, doublons...)
+:black_medium_small_square:  Analyser et nettoyer les données sur Knime ( valeurs manquantes, valeurs aberrantes, doublons...)
 
-:black_medium_small_square Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
+:black_medium_small_square: Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
 
-:black_medium_small_square Transférer des données vers une zone de préparation
+:black_medium_small_square: Transférer des données vers une zone de préparation
 
 
 ## Outils utilisés : 
