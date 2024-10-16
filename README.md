@@ -47,7 +47,7 @@ Conception et création de tables, requêtes SQL.
 # 🔧 Outils utilisés : 
 ![1729116873134](https://github.com/user-attachments/assets/eaab994a-8563-4321-8028-0a73850a8f59)
 
-Un aperçu sur les sénarios des projets et les compétences aquises : 
+ # Un aperçu sur les sénarios des projets et les compétences aquises.
 
  :file_cabinet: Projet 10 : Détectez des faux billets avec Python
  
