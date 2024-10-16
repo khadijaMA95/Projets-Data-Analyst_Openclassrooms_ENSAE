@@ -137,6 +137,9 @@ Dans le cadre de votre mission en tant que Data Analyst pour l'ONG DWFA, vous ê
 Le chef de mission, vous demande de choisir des indicateurs pertinents pour chaque domaine, puis de concevoir un blueprint (document synthétique des indicateurs) et des mockups (modèles basse fidélité de 3 vues du tableau de bord). Les données fournies par un Data Engineer, ainsi que des informations complémentaires provenant de sources telles que l'OMS et la FAO, seront les bases de votre analyse.
 
 Ce projet permettra de mieux cibler les efforts de l'ONG en fonction du pays qui sera sélectionné, en fonction des fonds reçus.
+
+![Capture d’écran 2024-10-16 223457](https://github.com/user-attachments/assets/167dd957-6105-47a7-9913-4df6de9d466a)
+
                   
 ### compétences acquises :
 
