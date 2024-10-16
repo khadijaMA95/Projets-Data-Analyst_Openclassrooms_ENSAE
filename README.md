@@ -2,8 +2,6 @@ Hello !! 👋
 
 🌱 Je viens de terminer la formation  de Data Analyst chez Openclassrooms en partenariat avec L'école nationale de la statistique et de l'administration économique de Paris ENSAE !
 
-📫 Se connecter avec moi : www.linkedin.com/in/kma95
-
 💬 M'écrire : khadija.chaouki07@gmail.com
 
 # Portfolio des projets réalisés :
