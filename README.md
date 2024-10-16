@@ -63,7 +63,7 @@ Votre rôle est d'approfondir et d'analyser ces données en utilisant des outils
 
 :black_medium_small_square:  Rédiger et présenter une méthodologie d'exploration et d'analyse des données
 ## Outils utilisés : 
-Algèbre relationnelle / Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
+Algèbre relationnelle ,Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
 
 ## Projet 4 : Optimisez la gestion des données d'une boutique avec R ou Python
 
@@ -89,11 +89,14 @@ Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
 ![Capture d’écran 2024-10-16 160338](https://github.com/user-attachments/assets/1e9c20d1-ed57-468b-b487-2adac0c74e88)
 
 ### Contexte :
-Dans ce projet, Lapage, une ancienne librairie physique, a récemment lancé son site de vente en ligne après avoir rencontré un fort engouement de la part de ses clients. Vous avez été recruté en tant que Data Analyst pour analyser l'activité de la librairie en ligne. L'équipe marketing a des attentes spécifiques : analyser les indicateurs de vente pour évaluer les performances commerciales et réaliser une analyse détaillée du comportement des clients en ligne. Les bases de données nécessaires ( clients, produits, transactions...) sont déjà mises à votre disposition pour démarrer la mission.
-![Capture d’écran 2024-10-16 160432](https://github.com/user-attachments/assets/cc80a997-352a-4a6f-95e5-fa1e77007c2a)
+Dans ce projet, vous travaillez en tant que Data Analyst dans un cabinet de conseil spécialisé dans la transformation digitale. la directrice des ressources humaines, vous demande de collaborer avec le contrôleur de gestion sociale, pour automatiser un rapport de diagnostic sur l'égalité femmes-hommes. Ce rapport est requis annuellement pour les entreprises de plus de 50 salariés, dans le cadre de l'obligation de publier l'index de l'égalité femmes-hommes.
+
+Votre mission consiste à utiliser KNIME pour créer un workflow qui génère les graphiques liés à cinq indicateurs d'égalité professionnelle parmi ceux définis par le ministère du Travail. Les données fournies proviennent du Système d'Information des Ressources Humaines (SIRH) et nécessitent une anonymisation conforme au RGPD. Vous devrez également produire un fichier .csv pour des analyses futures dans Tableau Software.
+Ce projet vous permettra de contribuer à une stratégie d'égalité professionnelle tout en renforçant la marque employeur du cabinet.
 
                             
 ### compétences acquises :
+
 :black_medium_small_square:  Analyser et nettoyer les données ( valeurs manquantes, valeurs aberrantes, doublons...)
 
 :black_medium_small_square:	 Réaliser un test statistique : test de normalité, test chi2, test de Spearman, ANOVA...
@@ -101,25 +104,51 @@ Dans ce projet, Lapage, une ancienne librairie physique, a récemment lancé son
 :black_medium_small_square:  Réaliser une analyse bivariée pour interpréter des données : analyse des KPI, segmentation des produits,  segmentation des clients, analyse de la saisonnalité...
 
 :black_medium_small_square:  Analyser des séries temporelles :   la série temporelle de l’évolution du chiffre d’affaires,  réaliser une décomposition en moyenne mobile...
+
 ## Outils utilisés : 
 Language Python / Librairie Pandas, Numpy, Scipy, Sklearn, Seaborn, Matplotlib...
 
-## Projet 6 : Analysez les ventes d'une librairie avec R ou Python
-![Capture d’écran 2024-10-16 160338](https://github.com/user-attachments/assets/1e9c20d1-ed57-468b-b487-2adac0c74e88)
+## Projet 6 : Analysez des indicateurs de l'égalité femme-homme avec Knime
 
 ### Contexte :
 Dans ce projet, Lapage, une ancienne librairie physique, a récemment lancé son site de vente en ligne après avoir rencontré un fort engouement de la part de ses clients. Vous avez été recruté en tant que Data Analyst pour analyser l'activité de la librairie en ligne. L'équipe marketing a des attentes spécifiques : analyser les indicateurs de vente pour évaluer les performances commerciales et réaliser une analyse détaillée du comportement des clients en ligne. Les bases de données nécessaires ( clients, produits, transactions...) sont déjà mises à votre disposition pour démarrer la mission.
-![Capture d’écran 2024-10-16 160432](https://github.com/user-attachments/assets/cc80a997-352a-4a6f-95e5-fa1e77007c2a)
+![Capture d’écran 2024-10-16 163230](https://github.com/user-attachments/assets/1b9a0abf-c7fc-4392-82af-1388dee21c62)
 
                             
 ### compétences acquises :
-:black_medium_small_square:  Analyser et nettoyer les données ( valeurs manquantes, valeurs aberrantes, doublons...)
 
-:black_medium_small_square:	 Réaliser un test statistique : test de normalité, test chi2, test de Spearman, ANOVA...
+:black_medium_small_square Collecter des données en respectant le RGPD
 
-:black_medium_small_square:  Réaliser une analyse bivariée pour interpréter des données : analyse des KPI, segmentation des produits,  segmentation des clients, analyse de la saisonnalité...
+:black_medium_small_square  Analyser et nettoyer les données sur Knime ( valeurs manquantes, valeurs aberrantes, doublons...)
 
-:black_medium_small_square:  Analyser des séries temporelles :   la série temporelle de l’évolution du chiffre d’affaires,  réaliser une décomposition en moyenne mobile...
+:black_medium_small_square Préparer des données pour l'analyse en respectant les normes internes à l’entreprise
+
+:black_medium_small_square Transférer des données vers une zone de préparation
+
+
 ## Outils utilisés : 
-Language Python / Librairie Pandas, Numpy, Scipy, Sklearn, Seaborn, Matplotlib...
+Knime 
 
+## Projet 7 : Faites une étude sur l'eau potable
+
+### Contexte :
+Dans le cadre de votre mission en tant que Data Analyst pour l'ONG DWFA, vous êtes chargé de créer un tableau de bord interactif permettant d'identifier les pays confrontés à des difficultés d'accès à l'eau potable. Ce tableau de bord sera essentiel pour orienter les futurs investissements dans l'un des trois domaines d'expertise de DWFA : création de services d'accès à l'eau potable, modernisation de services existants et consulting auprès des gouvernements.
+
+Le chef de mission, vous demande de choisir des indicateurs pertinents pour chaque domaine, puis de concevoir un blueprint (document synthétique des indicateurs) et des mockups (modèles basse fidélité de 3 vues du tableau de bord). Les données fournies par un Data Engineer, ainsi que des informations complémentaires provenant de sources telles que l'OMS et la FAO, seront les bases de votre analyse.
+
+Ce projet permettra de mieux cibler les efforts de l'ONG en fonction du pays qui sera sélectionné, en fonction des fonds reçus.
+                  
+### compétences acquises :
+
+:black_medium_small_square:  Analyser un besoin client pour formuler des questions analytiques
+
+ :black_medium_small_square:   Explorer et nettoyer les données sur Power Query
+
+:black_medium_small_square:  Créer un tableau de bord répondant à des questions analytiques sur Tableau 
+
+:black_medium_small_square:  Générer des graphiques adaptés aux types de données
+
+:black_medium_small_square:  Synthétiser des résultats à destination d'un client
+
+## Outils utilisés : 
+Power Bi, Power Query
