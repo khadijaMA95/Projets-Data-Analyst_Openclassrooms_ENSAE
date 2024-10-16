@@ -19,7 +19,7 @@ De plus, vous aidez votre collègue du pôle Marketing à analyser les données 
 
 :black_medium_small_square:	 Synthétiser des résultats à destination d'un client
 ## Outils utilisés : 
-Excel, PowerPoint
+**Excel**, **PowerPoint**
 
 ## Projet 2 : Créez et utilisez une base de données immobilière avec SQL
 ![projet 2](https://github.com/user-attachments/assets/734ec1d1-18cb-436f-8cab-ac726f537238)
@@ -41,8 +41,11 @@ Dans ce projet, en tant que Data Analyst chez Laplace Immo, vous êtes chargé d
 :black_medium_small_square:  Mettre à jour un catalogue de données
 ## Outils utilisés : 
 **Excel** et **Power Query** : préparation des données.
+
 **draw.io** : modèle de conception des données.
+
 **SQL Power Architect** : modèle relationnel des données.
+
 **mySQL** : implémentation de la base et requêtes.
 
 ## Projet 3 : Réalisez une étude de santé publique avec R ou Python
