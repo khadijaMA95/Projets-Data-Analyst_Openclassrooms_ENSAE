@@ -40,7 +40,10 @@ Dans ce projet, en tant que Data Analyst chez Laplace Immo, vous êtes chargé d
 
 :black_medium_small_square:  Mettre à jour un catalogue de données
 ## Outils utilisés : 
-mySQL, postgreSQL
+**Excel** et **Power Query** : préparation des données.
+**draw.io** : modèle de conception des données.
+**SQL Power Architect** : modèle relationnel des données.
+**mySQL** : implémentation de la base et requêtes.
 
 ## Projet 3 : Réalisez une étude de santé publique avec R ou Python
 ![Projet 3](https://github.com/user-attachments/assets/2468b4b1-0441-40ac-beef-05b8a392938e)
