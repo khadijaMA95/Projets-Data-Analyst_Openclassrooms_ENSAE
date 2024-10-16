@@ -64,11 +64,13 @@ Votre rôle est d'approfondir et d'analyser ces données en utilisant des outils
 Algèbre relationnelle / Language Python / Librairie Pandas, Numpy, Scipy et sklearn.
 
 ## Projet 4 : Optimisez la gestion des données d'une boutique avec R ou Python
-![Capture d’écran 2024-10-15 154847](https://github.com/user-attachments/assets/6bcc88fb-b91f-4332-985a-c3ede18aa02c)
 
 ### Contexte :
 
 Dans ce projet, vous commencez en tant que Data Analyst chez BottleNeck, un marchand de vin prestigieux. Votre manager, vous demande de rapprocher deux bases de données provenant d'un ERP et de la plateforme de vente en ligne de l'entreprise. L'objectif est de calculer le chiffre d'affaires par produit en ligne et de vérifier la cohérence des prix, en identifiant d'éventuelles anomalies. Vous devez également présenter vos résultats lors d'une réunion COPIL, sous forme de présentation ou de notebook. Laurent met à votre disposition deux exports de données ainsi qu'un tableau de liaison entre les deux systèmes pour faciliter votre travail.
+                    ![Capture d’écran 2024-10-15 154847](https://github.com/user-attachments/assets/3ed1b01f-5a2f-4634-aaf5-1723a7845514)
+
+                 
 ### compétences acquises : 
 :black_medium_small_square:	 Réaliser une analyse univariée pour interpréter des données
 :black_medium_small_square:  Classifier différents types de données 
