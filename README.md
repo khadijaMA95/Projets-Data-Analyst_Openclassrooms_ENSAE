@@ -6,12 +6,12 @@ Ce Portfolio contient les  projets que j'ai réalisé dans le cadre de ma format
 
 Projet 1 : Faites une analyse des ventes pour un e-commerce
 
-![Capture d’écran 2024-10-16 155040](https://github.com/user-attachments/assets/c5b4da8e-4c19-4135-afa9-c4a49e3f9c2e)
-
-
 ### Contexte :
 Dans ce projet, vous travaillez depuis un an en tant que Data Analyst au service Marketing d'une entreprise de grande distribution, Le Grand Marché. Votre mission principale consiste à préparer et analyser les données pour le rapport mensuel des actions marketing, qui sera présenté à la direction. Vous devez sélectionner et interpréter des graphiques pertinents pour expliquer la baisse du chiffre d'affaires et anticiper son évolution.
 De plus, vous aidez votre collègue du pôle Marketing à analyser les données des clients affiliés, en mettant à jour les chiffres dans un tableau de bord et en créant des graphiques pour visualiser les performances.
+![Capture d’écran 2024-10-16 155040](https://github.com/user-attachments/assets/7c27dbbd-dfbd-4e5d-b7f3-198b100f727f)
+
+
 ### compétences acquises : 
 :black_medium_small_square:	 Générer des graphiques adaptés aux types de données
 
