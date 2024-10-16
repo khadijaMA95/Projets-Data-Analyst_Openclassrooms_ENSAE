@@ -160,6 +160,7 @@ Power Bi, Power Query
 
 ### Contexte :
 Dans le cadre de votre mission en tant que Data Analyst chez La Poule qui Chante, une entreprise d’agroalimentaire, vous êtes chargé d’analyser les marchés internationaux potentiels pour l’exportation de leurs produits, notamment leurs poulets. Votre tâche principale consiste à réaliser une analyse de clustering des pays à partir des données fournies par la FAO. L'objectif est de repérer des groupements de pays potentiels où l'entreprise pourrait se développer. Pour cela, vous utiliserez deux méthodes de classification :
+
 :black_small_square: Classification Ascendante Hiérarchique (CAH)
 
 :black_small_square: K-means
