@@ -1,4 +1,4 @@
-Hello !! 👋
+Hello !! 👋 
 
 🌱 Je viens de terminer la formation  de Data Analyst chez Openclassrooms en partenariat avec L'école nationale de la statistique et de l'administration économique de Paris ENSAE !
 
