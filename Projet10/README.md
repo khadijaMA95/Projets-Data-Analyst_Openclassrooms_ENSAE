@@ -1,5 +1,5 @@
 # Projet 10 : Détectez des faux billets avec Python
-![Capture d’écran 2024-10-16 230514](https://github.com/user-attachments/assets/c13c7441-2c66-4181-94b9-a039af75c90f)
+![Capture d’écran 2024-10-16 230514](https://github.com/user-attachments/assets/f269371f-b6f9-4ab0-80ee-8831ba0d7ecd)
 
 📋 Scénario
 
@@ -40,30 +40,37 @@ En tant que consultant Data Analyst nous effectuons une prestation en régie au 
 
 # Example d'analyses de classfications réalisées dans le notebook de préparation des données : 
 
-![Capture d’écran 2024-10-17 134151](https://github.com/user-attachments/assets/a93c903c-f3d4-441d-a447-2e7825c6b294)
+![Capture d’écran 2024-10-17 134151](https://github.com/user-attachments/assets/8d0eef89-3363-4ec6-b868-b489e5d504c1)
 
-![Capture d’écran 2024-10-17 134947](https://github.com/user-attachments/assets/c6f253a3-9fc6-4dfc-a5c1-b44d39f25788)
+![Capture d’écran 2024-10-17 134947](https://github.com/user-attachments/assets/0d6cdfcc-ca4a-4c4d-80b9-927f57554ca4)
+
+![Capture d’écran 2024-10-17 135341](https://github.com/user-attachments/assets/fb7e3489-2924-49a0-a074-f9fa0042d037)
+
+
+![Capture d’écran 2024-10-17 135213](https://github.com/user-attachments/assets/0607a024-94ed-4c9b-aa99-798e56be04bf)
 
 
 
-![Capture d’écran 2024-10-17 135341](https://github.com/user-attachments/assets/aa7c5ee6-58b3-4b46-917b-175fd53d8a61)
 
-![Capture d’écran 2024-10-17 135213](https://github.com/user-attachments/assets/4cabf04d-8b44-4195-9c2d-964d6c7a5703)
+
+
+
+
 
 # Aperçu de l'algorithme détecteur de faux billets : 
 :mag:	 Cet algorithme vous affiche la liste des fichiers dans le dossier en question  : 
+![Capture d’écran 2024-10-17 140702](https://github.com/user-attachments/assets/bbe50898-77b4-4833-aaae-422c5f605742)
 
-![Capture d’écran 2024-10-17 140702](https://github.com/user-attachments/assets/f9459f79-691f-4592-ac7c-658d9a30b98c)
 
 :mag:	  Vous demande de choisir le fichier à analyser : 
  
-![Capture d’écran 2024-10-17 140720](https://github.com/user-attachments/assets/dd2e483a-9053-4a3c-8890-5e5ac34f8cfd)
+![Capture d’écran 2024-10-17 140720](https://github.com/user-attachments/assets/76c51687-43be-4e3f-a16e-2642717afe6d)
 
 :mag:	 Puis, il affiche les résultats : 
 
 
 
-![Capture d’écran 2024-10-17 140746](https://github.com/user-attachments/assets/f9043e7b-2896-4176-bb8b-45f72b51d6b2)
+![Capture d’écran 2024-10-17 140746](https://github.com/user-attachments/assets/dc8b6d4a-f295-478c-be30-3781a78de7c6)
 
 
 
