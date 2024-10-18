@@ -21,7 +21,7 @@ Créer tableau de bord Power BI d'au moins 3 pages. Les données sources ont ét
 
 # Etape de réalisation du projet :
 
-![Capture d’écran 2024-10-18 141217](https://github.com/user-attachments/assets/9b2b8e72-b6a6-4245-8cf6-f963f2f31526)
+![Capture d’écran 2024-10-18 143906](https://github.com/user-attachments/assets/47dc1ef9-8461-42f4-a074-2cc0b0038705)
 
 
 :mag: Blueprint :
@@ -29,4 +29,28 @@ Créer tableau de bord Power BI d'au moins 3 pages. Les données sources ont ét
 
 ![Capture d’écran 2024-10-18 142321](https://github.com/user-attachments/assets/34ab31b1-e5bb-41dd-9c31-94cd04db835b)
 
+:mag: Muck up:
+
+![Capture d’écran 2024-10-18 142515](https://github.com/user-attachments/assets/ed4d8e4c-3eae-4154-8168-755446303121)
+
+![Capture d’écran 2024-10-18 142538](https://github.com/user-attachments/assets/b2262b63-a2a0-4748-baf0-4789442efb4f)
+
+
+![Capture d’écran 2024-10-18 142550](https://github.com/user-attachments/assets/357b1be0-ad30-44ae-9cbe-ac4b28b60c3d)
+
+:mag: Tableau de bord réalisé  :
+
+:mag_right:	 Page 1 : une première vue sur la situation mondiale 
+![Capture d’écran 2024-10-18 142550](https://github.com/user-attachments/assets/975d3caa-e926-47f9-94b3-b998a651d524)
+
+
+
+:mag_right:	 Page 2 : une vue sur la situation continentale
+![conti](https://github.com/user-attachments/assets/c5f51867-e90c-4cdf-ab48-d456f1113a1d)
+
+
+:mag_right:	 Page 3 : une vue sur la situation nationale
+
+
+![national](https://github.com/user-attachments/assets/bfbdb2cf-0890-43cf-966f-2888b2885ef8)
 
