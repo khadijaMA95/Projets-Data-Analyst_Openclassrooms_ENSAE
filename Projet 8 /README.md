@@ -1,4 +1,5 @@
 # Projet 8 : Faites une étude sur l'eau potable
+![Capture d’écran 2024-10-16 223457](https://github.com/user-attachments/assets/a1e9a62e-7269-49b0-9c6b-0ab6f96a2141)
 
 🎓 Compétences acquises
 
@@ -13,6 +14,7 @@
 📋 Scénario
 
 Consultant Data Analyst en mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde. Le but de cette mission est de réaliser un tableau de bord présentant une vue globale de l’accès à l’eau potable dans le monde. Celui-ci permettra de choisir le pays à cibler pour apporter son aide à ce pays.
+
 
 🎯 Objectifs
 
