@@ -43,8 +43,11 @@ Nous sommes en poste chez La poule qui chante, une entreprise française d’agr
 ![Capture d’écran 2024-10-18 132527](https://github.com/user-attachments/assets/67fbce22-f5e8-4fde-b655-4765c6974d44)
 
 
+![Capture d’écran 2024-10-18 133521](https://github.com/user-attachments/assets/d58ee7b7-d9bd-49f9-bf48-7df91e4b0835)
 
-![Capture d’écran 2024-10-18 132752](https://github.com/user-attachments/assets/3e6e9e32-cd54-40ca-91de-3e6ec3bffb5b)
+
+
+![Capture d’écran 2024-10-18 133435](https://github.com/user-attachments/assets/6a1ce276-6f42-4672-9a76-6be9264e8d3e)
 
 
 
