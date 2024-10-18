@@ -17,6 +17,7 @@ Nous sommes en poste chez La poule qui chante, une entreprise française d’agr
 :black_small_square:	 Réaliser le clustering des pays grâce à la classification ascendante hiérarchique (CAH) et à la méthode des k-means puis réaliser une analyse en composantes principales (ACP) dans un second notebook.
 
 🔧 Outils utilisés
+
 :black_small_square:	 Pandas, Matplotlib et Seaborn : préparation et analyse descriptive des données.
 
 :black_small_square:	 SciPy et scikit-learn : clusterings.
