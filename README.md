@@ -20,7 +20,7 @@ Analyse exploratoire, analyse descriptive, algorithme de prédiction.
 
 Analyse exploratoire, analyse descriptive, clustering.
 
-:file_cabinet:	 Projet 8 : Rapport de mixité sociale dans les lycées avec Power BI
+:file_cabinet:	 Projet 8 : Faites une étude sur l'eau potable
 
 Préparation de données, réalisation de dashboards.
 
