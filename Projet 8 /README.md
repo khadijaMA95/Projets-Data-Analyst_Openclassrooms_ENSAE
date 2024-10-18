@@ -27,7 +27,6 @@ Créer tableau de bord Power BI d'au moins 3 pages. Les données sources ont ét
 :mag: Blueprint :
 
 
-![Capture d’écran 2024-10-18 141751](https://github.com/user-attachments/assets/8f83b548-bde6-40dd-8290-6e14631ce330)
+![Capture d’écran 2024-10-18 142321](https://github.com/user-attachments/assets/34ab31b1-e5bb-41dd-9c31-94cd04db835b)
 
-![Capture d’écran 2024-10-18 141811](https://github.com/user-attachments/assets/2f406f1c-08a8-40aa-8a3a-52daefed56bf)
 
