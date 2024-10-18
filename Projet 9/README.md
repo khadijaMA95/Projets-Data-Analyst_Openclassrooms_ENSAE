@@ -29,3 +29,27 @@ Nous sommes en poste chez La poule qui chante, une entreprise française d’agr
 :black_small_square:	 Explorer des données pour synthétiser des variables.
 
 :black_small_square:	 Example d'analyses réalisées dans le notebook de préparation
+
+# Example d'analyses réalisées dans le notebook  :
+
+![Capture d’écran 2024-10-18 132644](https://github.com/user-attachments/assets/a9241a0c-1f1b-422f-9a00-dec638f6b328)
+
+![Capture d’écran 2024-10-18 132832](https://github.com/user-attachments/assets/79396031-7157-403d-b76c-07511461562b)
+
+
+![Capture d’écran 2024-10-18 132444](https://github.com/user-attachments/assets/a11940c9-ae28-4860-9c5e-974a7469d6a8)
+
+
+![Capture d’écran 2024-10-18 132527](https://github.com/user-attachments/assets/67fbce22-f5e8-4fde-b655-4765c6974d44)
+
+
+![Capture d’écran 2024-10-18 132732](https://github.com/user-attachments/assets/7447f85a-9fef-4419-9c85-d00a355a5c0f)
+
+
+
+
+
+
+
+
+
