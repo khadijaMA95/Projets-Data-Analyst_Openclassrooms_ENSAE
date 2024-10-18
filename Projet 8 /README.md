@@ -44,10 +44,13 @@ Créer tableau de bord Power BI d'au moins 3 pages. Les données sources ont ét
 
 :bookmark_tabs:		 Page 1 : une première vue sur la situation mondiale 
 
+
 ![Capture d’écran 2024-10-18 143304](https://github.com/user-attachments/assets/0e47d796-0b20-4d70-b34d-8ea47c301215)
 
 
 :bookmark_tabs:		 Page 2 : une vue sur la situation continentale
+
+
 ![conti](https://github.com/user-attachments/assets/c5f51867-e90c-4cdf-ab48-d456f1113a1d)
 
 
