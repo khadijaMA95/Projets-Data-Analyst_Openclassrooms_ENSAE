@@ -29,6 +29,5 @@ Créer tableau de bord Power BI d'au moins 3 pages. Les données sources ont ét
 
 ![Capture d’écran 2024-10-18 141751](https://github.com/user-attachments/assets/8f83b548-bde6-40dd-8290-6e14631ce330)
 
-
 ![Capture d’écran 2024-10-18 141811](https://github.com/user-attachments/assets/2f406f1c-08a8-40aa-8a3a-52daefed56bf)
 
