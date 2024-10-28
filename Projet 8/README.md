@@ -33,7 +33,18 @@ Créer un rapport Power BI d'au moins 3 pages. Les données sources ont été pr
 
 ![Capture d’écran 2024-10-18 142550](https://github.com/user-attachments/assets/90fa2865-6102-4fdb-864e-a8f8c55d792a)
 
+# Dashboard réalisé : 
+
+Page 1 : 
+![Capture d’écran 2024-10-18 143304](https://github.com/user-attachments/assets/2a93ced1-4858-4d2a-a6e9-63c4840c1e3c)
+
+Page 2 : 
+
+![conti](https://github.com/user-attachments/assets/a0f36634-29a2-4f16-adff-ced7302a83ae)
 
 
+Page 3 : 
+
+![national](https://github.com/user-attachments/assets/0f4376a4-e909-4f3f-b986-d497c5b71b27)
 
 
