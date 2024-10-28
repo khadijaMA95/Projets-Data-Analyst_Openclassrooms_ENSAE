@@ -102,6 +102,7 @@ Les données utilisées sont issues des statistiques de la Food and Agriculture 
  :file_cabinet: Projet 8 : Faites une étude sur l'eau potable avec Power BI
  
 🎓 Compétences acquises :
+
 :black_medium_small_square:	 Synthétiser des résultats à destination d'un client.
 
 :black_medium_small_square:	 Créer un tableau de bord répondant à des questions analytiques.
