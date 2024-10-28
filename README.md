@@ -10,7 +10,6 @@ Ce dépôt contient 10 projets réalisés dans le cadre du parcours de formation
 Les projets 1 et 2 sont absents de mon Portfolio car il ne comportent pas de code et evaluent des compétences de type softskills.
 
 # Je suis désormais à la recherche d'un poste Data Analyst junior ! 
-
 # je suis disponible pour un démarrage immédiat !
 
 # 📑 Projets réalisés : 
