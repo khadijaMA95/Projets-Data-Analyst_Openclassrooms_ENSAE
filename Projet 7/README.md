@@ -26,7 +26,6 @@ Knime : création du rapport de diagnostic.
 
 ![Capture d’écran 2024-10-28 102744](https://github.com/user-attachments/assets/e18b4025-1020-49a1-814a-addf65ca6f3b)
 
-
 ![Capture d’écran 2024-10-28 103023](https://github.com/user-attachments/assets/d1bba0fb-f734-44c4-8e3f-0516070f60a6)
 
 
