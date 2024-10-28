@@ -26,10 +26,18 @@ Knime : création du rapport de diagnostic.
 
 ![Capture d’écran 2024-10-28 102744](https://github.com/user-attachments/assets/e18b4025-1020-49a1-814a-addf65ca6f3b)
 
-![Capture d’écran 2024-10-28 103023](https://github.com/user-attachments/assets/d1bba0fb-f734-44c4-8e3f-0516070f60a6)
-
 
 # Aperçu des indicteurs créés :
+
+![Capture d’écran 2024-10-28 103559](https://github.com/user-attachments/assets/83434010-1bb5-466b-8b60-3f27bcf3948a)
+
+![Capture d’écran 2024-10-28 103730](https://github.com/user-attachments/assets/a564fd62-06f8-4315-baaf-ba49341a5e6d)
+
+
+![Capture d’écran 2024-10-28 103634](https://github.com/user-attachments/assets/9dd667f4-16dd-41a5-8435-0bf811ee5157)
+
+
+![Capture d’écran 2024-10-28 103707](https://github.com/user-attachments/assets/f13f9a05-e174-4f7a-92db-efe5eee0af00)
 
 
 
