@@ -53,6 +53,13 @@ En tant que consultant Data Analyst nous effectuons une prestation en régie au 
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 9223122 (Ajout des fichiers du Projet 7)
 # Aperçu de l'algorithme détecteur de faux billets : 
 :mag:	 Cet algorithme vous affiche la liste des fichiers dans le dossier en question  : 
 ![Capture d’écran 2024-10-17 140702](https://github.com/user-attachments/assets/bbe50898-77b4-4833-aaae-422c5f605742)
@@ -74,4 +81,7 @@ En tant que consultant Data Analyst nous effectuons une prestation en régie au 
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9223122 (Ajout des fichiers du Projet 7)
